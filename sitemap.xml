@@ -1,85 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:fo="http://www.w3.org/1999/XSL/Format"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <url>
+    <loc>https://foxholski.github.io/foxholski/</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>https://foxholski.github.io/foxholski/</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/index.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/FORUM.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/GIG%20PHOTOS.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/IMAGES.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/GIGS&FLIERS;.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/GUESTBOOK.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/MAILING%20LIST%20_%20KIOSK.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/PARTY%20IN%20HIROSHIMA,%20dee%20foxholski,%20lab1a,.html</loc>
-  <lastmod>2026-07-06T17:18:54+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/BAND%20CONTACT.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/LINKAGES_PRESS.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/IMAGES_files/ads.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/LINKAGES_PRESS_files/ads.html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://foxholski.github.io/foxholski/LINKAGES_PRESS_files/ads(1).html</loc>
-  <lastmod>2026-07-06T17:18:53+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <url>
+    <loc>https://foxholski.github.io/foxholski/index.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://foxholski.github.io/foxholski/FORUM.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://foxholski.github.io/foxholski/GIG%20PHOTOS.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://foxholski.github.io/foxholski/IMAGES.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- FIX THIS URL -->
+  <url>
+    <loc>https://foxholski.github.io/foxholski/GIGS%26FLIERS.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://foxholski.github.io/foxholski/GUESTBOOK.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://foxholski.github.io/foxholski/MAILING%20LIST%20_%20KIOSK.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- FIX THIS URL -->
+  <url>
+    <loc>https://foxholski.github.io/foxholski/PARTY%20IN%20HIROSHIMA%20dee%20foxholski%20lab1a.html</loc>
+    <lastmod>2026-07-06T17:18:54+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://foxholski.github.io/foxholski/BAND%20CONTACT.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://foxholski.github.io/foxholski/LINKAGES_PRESS.html</loc>
+    <lastmod>2026-07-06T17:18:53+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>
